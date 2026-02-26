@@ -1,0 +1,3 @@
+INSERT INTO `courses` (`id`, `course_code`, `course_name`, `description`, `credits`, `department`, `is_active`, `created_at`) VALUES (1, 'CS1111', 'PO B', '', 3, 'Computer Scines', 1, '2026-02-25 12:12:09');
+INSERT INTO `courses` (`id`, `course_code`, `course_name`, `description`, `credits`, `department`, `is_active`, `created_at`) VALUES (2, 'dsa3', 'Graphic Desine', '', 4, 'General', 1, '2026-02-25 13:36:53');
+INSERT INTO `courses` (`id`, `course_code`, `course_name`, `description`, `credits`, `department`, `is_active`, `created_at`) VALUES (3, 'r331', 'Teacher', '', 3, 'General', 1, '2026-02-25 13:37:23');

@@ -1,0 +1,7 @@
+INSERT INTO `class_topics` (`id`, `teacher_id`, `class_id`, `title`, `description`, `due_date`, `created_at`, `difficulty`) VALUES (4, 4, 2, 'Логарифмы', '', '2026-02-25', '2026-02-25 17:01:57', 'medium');
+INSERT INTO `class_topics` (`id`, `teacher_id`, `class_id`, `title`, `description`, `due_date`, `created_at`, `difficulty`) VALUES (5, 4, 1, 'Логарифмы', '', '2026-02-25', '2026-02-25 17:01:57', 'medium');
+INSERT INTO `class_topics` (`id`, `teacher_id`, `class_id`, `title`, `description`, `due_date`, `created_at`, `difficulty`) VALUES (6, 4, 3, 'Логарифмы', '', '2026-02-25', '2026-02-25 17:01:57', 'medium');
+INSERT INTO `class_topics` (`id`, `teacher_id`, `class_id`, `title`, `description`, `due_date`, `created_at`, `difficulty`) VALUES (7, 4, 2, 'Интеграл', '', '2026-02-25', '2026-02-25 18:30:50', 'hard');
+INSERT INTO `class_topics` (`id`, `teacher_id`, `class_id`, `title`, `description`, `due_date`, `created_at`, `difficulty`) VALUES (8, 4, 1, 'Интеграл', '', '2026-02-25', '2026-02-25 18:30:50', 'hard');
+INSERT INTO `class_topics` (`id`, `teacher_id`, `class_id`, `title`, `description`, `due_date`, `created_at`, `difficulty`) VALUES (9, 4, 3, 'Интеграл', '', '2026-02-25', '2026-02-25 18:30:50', 'hard');
+INSERT INTO `class_topics` (`id`, `teacher_id`, `class_id`, `title`, `description`, `due_date`, `created_at`, `difficulty`) VALUES (10, 2, 3, 'Основы успешного менеджмента', '', '2026-02-25', '2026-02-25 18:36:38', 'easy');
